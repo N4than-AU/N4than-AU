@@ -13,7 +13,7 @@ Coding is my playground — whether it’s automating something, building a game
 
 ### 🧰 Languages & Tools
 - ☕ **Java** – my main weapon of choice  
-- 🐍 **Python** – for automation, scripting, and chaotic experiments  
+- 🐍 **Python** – for automation, scripting and experimenting
 - 💪 **C++** – when I feel like punishing myself in style  
 - ⚙️ **C#** – currently learning and loving it!  
 - 🧑‍💻 **Git / GitHub**, **VS Code**, **IntelliJ IDEA**, **Visual Studio**
