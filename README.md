@@ -42,4 +42,6 @@ Wanna collaborate or just chat tech? Hit me up!
 
 ---
 
-> 💡 “Code, break, fix, repeat — that’s how legends are born.”  
+> [!NOTE]
+> If you are contactinv me through Discord, you should start your message with 'I came from your github'
+> I'll then give you a good Developer advice, similar to what [Xtracube](https://github.com/XtraCube) did.
