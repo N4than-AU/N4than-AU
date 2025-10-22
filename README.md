@@ -38,7 +38,7 @@ Coding is my playground — whether it’s automating something, building a game
 ### Contact Me
 Wanna collaborate or just chat tech? Hit me up!
 - Email: prahaldhbackup@gmail.com
-- Discord: `skipvoteray` (Add me as friend, and say 'I came from your github page' to get a free dev advice)  
+- Discord: `skipvoteray`
 
 ---
 
