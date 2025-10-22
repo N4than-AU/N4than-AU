@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 Heya! I'm **Nathan**, a 16-year-old developer who loves making cool stuff come alive with code 
 I started my journey with **Java** and **Python**, and now I’m diving into **C++** and learning **C#** along the way.  
 Coding is my playground — whether it’s automating something, building a game, or breaking my code just to fix it again.
