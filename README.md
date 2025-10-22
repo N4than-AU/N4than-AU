@@ -31,7 +31,7 @@ Coding is my playground — whether it’s automating something, building a game
 - I talk to my compiler more than people sometimes
 - I became contributor in [Submerged](https://github.com/SubmergedAmongUs/Submerged) for helping in two bugfixes.
 - My sleep schedule and debug logs are equally messy  
-- Fuel: Caffeine
+- Fuel: Caffeine ☕
 
 ---
 
