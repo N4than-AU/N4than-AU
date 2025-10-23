@@ -43,5 +43,5 @@ Wanna collaborate or just chat tech? Hit me up!
 ---
 
 > [!NOTE]
-> If you are contactinv me through Discord, you should start your message with 'I came from your github'
+> If you are contacting me through Discord, you should start your message with 'I came from your github'
 > I'll then give you a good Developer advice, similar to what [Xtracube](https://github.com/XtraCube) did.
