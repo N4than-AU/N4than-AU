@@ -46,5 +46,6 @@ If you wanna talk or work on something:
 * **Email:** [nathangithub25@gmail.com](mailto:nathangithub25@gmail.com)
 * **Discord:** `n4thandev`
 
-> If you DM me on Discord, start with **"I came from your GitHub"**
-> I’ll send you a nice dev tip, like how XtraCube does.
+> [!NOTE]  
+> If you DM me on Discord, start with **"I came from your GitHub"**  
+> I’ll send you a nice dev tip, like how XtraCube does.  
