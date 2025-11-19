@@ -38,7 +38,7 @@ Coding is my playground — whether it’s automating something, building a game
 ### Contact Me
 Wanna collaborate or just chat tech? Hit me up!
 - Email: nathangithub25@gmail.com
-- Discord: `skipvoteray`
+- Discord: `n4thandev`
 
 ---
 
